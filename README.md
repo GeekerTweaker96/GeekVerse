@@ -139,5 +139,6 @@ This is an ongoing project and I welcome contributions and suggestions! Feel fre
 If you need any help with setting up Decap CMS, you can reach out to the Netlify team in the [Decap CMS Gitter](https://gitter.im/netlify/netlifycms).
 =======
 # GeekVerse
+
 Dark-themed geek community + marketplace site
 >>>>>>> 634ee8529394eb8e1db7fd6a3368c9dd9c798029
