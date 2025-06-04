@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bbf28a84-4bdb-407b-a2fa-32628d27fa3d/deploy-status)](https://app.netlify.com/sites/eleventy-netlify-boilerplate/deploys)
 
 # Eleventy Netlify Boilerplate
@@ -136,3 +137,7 @@ DEBUG=* npx @11ty/eleventy
 This is an ongoing project and I welcome contributions and suggestions! Feel free to submit a PR.
 
 If you need any help with setting up Decap CMS, you can reach out to the Netlify team in the [Decap CMS Gitter](https://gitter.im/netlify/netlifycms).
+=======
+# GeekVerse
+Dark-themed geek community + marketplace site
+>>>>>>> 634ee8529394eb8e1db7fd6a3368c9dd9c798029
